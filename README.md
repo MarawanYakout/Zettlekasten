@@ -21,3 +21,5 @@ Pleasd Look for the topic that you want to learn about more and want to explore 
 ## LLM - Projects
 
 - Slim - A program that allows attaching a localy deployed  LLM model to correct CLI errors.
+  - Link: https://github.com/MarawanYakout/Slim
+  
