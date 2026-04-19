@@ -24,9 +24,10 @@ Pleasd Look for the topic that you want to learn about more and want to explore 
 
 ## AI/DL/ML Resources
 
+### Code:
+- [Linear Regression in Python](https://youtu.be/eJMMLGaTv20)
 
-
-### General Purpose:
+### General Purpose Books:
 - Book Name : Sutskever's List - Richard Heimann
 
 
@@ -49,4 +50,7 @@ The following projects utalise LLM's or Build LLM's to implement features e.g au
 
 # Videos 
 ### Centrified - Personal Youtube Channel 
-- [Full Python Course with Practice](https://www.youtube.com/watch?v=t-Es7fbNYcg&t=17s) 
+- [Full Python Course with Practice](https://www.youtube.com/watch?v=t-Es7fbNYcg&t=17s)
+- [Linear Regression in Python](https://youtu.be/eJMMLGaTv20)
+   - [Dataset Used](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64)
+   - [Video Notebook Code]()
