@@ -8,7 +8,7 @@ Knowledge should not be kept unknown among us, to evolve , knowledge should be f
 Pleasd Look for the topic that you want to learn about more and want to explore more about below.
 
 
-## Datasets
+# Datasets
 
 - [Real Data Sets For (ML/DL) from Government of Canada ](https://search.open.canada.ca/opendata/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -16,11 +16,16 @@ Pleasd Look for the topic that you want to learn about more and want to explore 
 
 # Computer Science:
 
+
+
 ## Programming  Resources:
 - The C Programming Language - Brian W. Kernighan, Dennis M. Ritchie 
 
 
 ## AI/DL/ML Resources
+
+
+
 ### General Purpose:
 - Book Name : Sutskever's List - Richard Heimann
 
@@ -41,3 +46,7 @@ The following projects utalise LLM's or Build LLM's to implement features e.g au
 - Doom _"If you know how to program a game like Doom from scratch you probably are good in Assembly and C++"_
   - Original Work from 1997: https://github.com/id-Software/DOOM
   - Doom Made in Python: https://github.com/StanislavPetrovV/DOOM-Level-Viewer
+
+# Videos 
+### Centrified - Personal Youtube Channel 
+- [Full Python Course with Practice](https://www.youtube.com/watch?v=t-Es7fbNYcg&t=17s) 
