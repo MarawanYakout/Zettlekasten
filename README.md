@@ -28,7 +28,8 @@ Pleasd Look for the topic that you want to learn about more and want to explore 
 - [Linear Regression in Python](https://github.com/MarawanYakout/Zettlekasten/blob/main/code/machine_learning/Linear_Regression.ipynb)
 
 ### General Purpose Books:
-- Book Name : Sutskever's List - Richard Heimann
+- Sutskever's List - Richard Heimann
+- [The Art of Programming Collection by Donald Ervin Knuth](https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books/tree/master)
 
 
 ## AI/DL/ML Projects
