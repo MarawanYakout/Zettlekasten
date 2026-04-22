@@ -55,6 +55,8 @@ The following projects utalise LLM's or Build LLM's to implement features e.g au
 
 ## Cybersecurity
 -  [Learning Expoitation](https://pwnable.kr/) - A website you can hack using C and Asm knowledge.
+-  [File I/O - File Descriptor](https://www.classes.cs.uchicago.edu/archive/2017/winter/51081-1/LabFAQ/lab2/fileio.html) Good information form University of Chicago.
+
 
 # Mathematics Books
 
