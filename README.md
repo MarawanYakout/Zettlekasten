@@ -19,7 +19,7 @@ Pleasd Look for the topic that you want to learn about more and want to explore 
 ## Languages
 - [Assembly Language](https://github.com/MarawanYakout/Zettlekasten/tree/main/code/languages/Assembly/x86_64_linux)
    - [Exta Nasm Examples](https://github.com/funnydman/nasm-assembly-examples/tree/master)
-
+  
 
 ## Programming  Resources:
 - The C Programming Language - Brian W. Kernighan, Dennis M. Ritchie 
@@ -51,6 +51,9 @@ The following projects utalise LLM's or Build LLM's to implement features e.g au
 - Doom _"If you know how to program a game like Doom from scratch you probably are good in Assembly and C++"_
   - Original Work from 1997: https://github.com/id-Software/DOOM
   - Doom Made in Python: https://github.com/StanislavPetrovV/DOOM-Level-Viewer
+
+## Cybersecurity
+-  [Learning Expoitation](https://pwnable.kr/) - A website you can hack using C and Asm knowledge.
 
 # Videos 
 ### Centrified - Personal Youtube Channel 
