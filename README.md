@@ -14,6 +14,7 @@ Pleasd Look for the topic that you want to learn about more and want to explore 
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Google Datasets](https://datasetsearch.research.google.com/)
 
+
 # Computer Science:
 
 ## Languages
@@ -54,6 +55,60 @@ The following projects utalise LLM's or Build LLM's to implement features e.g au
 
 ## Cybersecurity
 -  [Learning Expoitation](https://pwnable.kr/) - A website you can hack using C and Asm knowledge.
+
+# Mathematics Books
+
+Everything that you need to learn about in modren math, of course if we are talking as a whole this list will not end so
+here are the best picks to get you going in the industry big thanks to "The Math Sorcerer" on YouTube.
+
+
+**[The Nature of Mathematics by Karl Smith (The Bonus Book)](https://amzn.to/3ByNCTA)**
+
+## Foundations of Mathematics
+* [How to Prove It: A Structured Approach by Daniel J. Velleman (Logic and Proof Writing)](https://amzn.to/3VKKoDs)
+* [Elementary Number Theory by David M. Burton (Number Theory)](https://amzn.to/4ftX8Fg)
+* [Intermediate Algebra by Robert A. Blitzer (Intermediate Algebra)](https://amzn.to/3ZZX0ch)
+* [College Algebra by Robert A. Blitzer (College Algebra)](https://amzn.to/4glQiDd)
+* [Precalculus Mathematics for Calculus by James Stewart (Precalculus & Trigonometry)](https://amzn.to/4gHFqzm)
+
+## Algebra and Structures
+* [A Book of Abstract Algebra by Charles C. Pinter (Beginner)](https://amzn.to/3DjxENJ)
+* [Abstract Algebra by David S. Dummit and Richard M. Foote (Advanced)](https://amzn.to/3ByOk3c)
+* [Elementary Linear Algebra by Howard Anton (Beginner)](https://amzn.to/4gikkYz)
+* [Linear Algebra Done Right by Sheldon Axler (Advanced)](https://amzn.to/4iF9LAj)
+
+## Geometry and Topology
+* [Geometry by Harold R. Jacobs (Geometry)](https://amzn.to/4gkQKBC)
+* [Topology by James Munkres (Topology)](https://amzn.to/41Hn6lx)
+* [Algebraic Topology by Allen Hatcher (Algebraic Topology)](https://amzn.to/4iMaM9R)
+* [Differential Geometry of Curves and Surfaces by Manfredo P. do Carmo (Differential Geometry)](https://amzn.to/4gG7tix)
+
+## Discrete Mathematics and Combinatorics
+* [Discrete Mathematics with Applications by Susanna S. Epp](https://amzn.to/3VLpV0Z)
+* [Introductory Combinatorics by Richard A. Brualdi (Combinatorics)](https://amzn.to/3DhvTQU)
+
+## Analysis and Calculus
+
+* [Calculus by James Stewart (Calculus)](https://amzn.to/4iFaAsT)
+* [Advanced Calculus by Patrick M. Fitzpatrick (Advanced Calculus)](https://amzn.to/49KH2G8)
+* [Real and Complex Analysis by Walter Rudin (Real and Complex Analysis)](https://amzn.to/3ZL2oPa)
+* [Introductory Functional Analysis with Applications by Erwin Kreyszig (Functional Analysis)](https://amzn.to/3DlbavE)
+* [Complex Variables and Applications by James Ward Brown and Ruel V. Churchill (Complex Variables)](https://amzn.to/4gjHZrj)
+* [A First Course in Differential Equations by Dennis G. Zill (Differential Equations)](https://amzn.to/3DiQcO6)
+* [Partial Differential Equations: An Introduction by Walter A. Strauss (Partial Differential Equations)](https://amzn.to/3DzlqjO)
+* [Numerical Analysis by Richard L. Burden and J. Douglas Faires (Numerical Analysis)](https://amzn.to/49H5QPn)
+* [Fourier Series and Boundary Value Problems by James Ward Brown and Ruel V. Churchill (Fourier Series)](https://amzn.to/3P2J3Uw)
+
+## Applied Mathematics and Modeling
+* [Applied Mathematics by J. David Logan (Applied Math)](https://amzn.to/49N7zTq)
+* [Understanding Cryptography by Christof Paar and Jan Pelzl (Cryptography)](https://amzn.to/41HWcdg)
+* [Fundamentals of Physics by David Halliday, Robert Resnick, and Jearl Walker (Physics Vol. 1)](https://amzn.to/40aMmzD)
+* [Fundamentals of Physics by David Halliday, Robert Resnick, and Jearl Walker (Physics Vol. 2)](https://amzn.to/49LQ1H3)
+* [Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N.O. Sadiku (Electrical Engineering)](https://amzn.to/3P3w7xN)
+
+## Probability and Statistics
+* [A First Course in Probability by Sheldon Ross (For Beginners)](https://amzn.to/4iLn1mP)
+* [Statistical Inference by George Casella and Roger L. Berger (More Advanced)](https://amzn.to/4foQVdY)
 
 # Videos 
 ### Centrified - Personal Youtube Channel 
