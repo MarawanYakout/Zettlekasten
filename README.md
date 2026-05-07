@@ -33,7 +33,7 @@ Pleasd Look for the topic that you want to learn about more and want to explore 
 
 ### General Purpose Books:
 - Sutskever's List - Richard Heimann
-- [The Art of Programming Collection by Donald Ervin Knuth](https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books/tree/master)
+- [Geoffrey E Hinton - Puplications](https://github.com/manjunath5496/Geoffrey-E-Hinton-Publications)
 
 
 ## AI/DL/ML Projects
