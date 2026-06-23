@@ -119,3 +119,5 @@ here are the best picks to get you going in the industry big thanks to "The Math
 - [Linear Regression in Python](https://youtu.be/eJMMLGaTv20)
    - [Dataset Used](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64)
    - [Linear Regression Code](https://github.com/MarawanYakout/Zettlekasten/blob/main/code/machine_learning/Linear_Regression.ipynb)
+# Game Dev
+- [Game 2D Sprites](https://www.spriters-resource.com/)
