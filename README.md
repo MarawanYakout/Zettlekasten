@@ -3,10 +3,15 @@
 _Athor Starement  "This shall be the knowlage hidden revealed, the notes taken the of ultimate void of knowlage and written words of the wise. Project made to learn and teach.
 Knowledge should not be kept unknown among us, to evolve , knowledge should be free. Those who deprive knowledge will always live in fear. Because true power is in learning and that can't be stopped."_
 
+
+This README was not AI generated ! Sources where handpicked, cant say the same about the code or inside the resources themselves.
+
 **Note:** The purpose of this repository is to enable a person who knows little or nothing about computers to become a professional with no educational background of computers, software or AI needed.
 
 Pleasd Look for the topic that you want to learn about more and want to explore more about below.
 
+# General Purpose Book Collection:
+- [Manga Way to Learn All Topics of CS, Physics and Calculas](https://nostarch.com/catalog/manga)
 
 # Datasets
 
@@ -14,19 +19,20 @@ Pleasd Look for the topic that you want to learn about more and want to explore 
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Google Datasets](https://datasetsearch.research.google.com/)
 
-
 # Computer Science:
 
-## Languages
-- [Assembly Language](https://github.com/MarawanYakout/Zettlekasten/tree/main/code/languages/Assembly/x86_64_linux)
-   - [Exta Nasm Examples](https://github.com/funnydman/nasm-assembly-examples/tree/master)
-  
+The following is everthing CS related from Languages to Projects
 
-## Programming  Resources:
-- The C Programming Language - Brian W. Kernighan, Dennis M. Ritchie 
+   ## Languages
+   - [Assembly Language](https://github.com/MarawanYakout/Zettlekasten/tree/main/code/languages/Assembly/x86_64_linux)
+      - [Exta Nasm Examples](https://github.com/funnydman/nasm-assembly-examples/tree/master)
+     
+   
+   ## Programming  Resources:
+   - The C Programming Language - Brian W. Kernighan, Dennis M. Ritchie 
 
 
-## AI/DL/ML Resources
+## AI/DL/ML Resources:
 
 ### Code:
 - [Linear Regression in Python](https://github.com/MarawanYakout/Zettlekasten/blob/main/code/machine_learning/Linear_Regression.ipynb)
@@ -36,11 +42,11 @@ Pleasd Look for the topic that you want to learn about more and want to explore 
 - [Geoffrey E Hinton - Puplications](https://github.com/manjunath5496/Geoffrey-E-Hinton-Publications)
 
 
-## AI/DL/ML Projects
+## AI/DL/ML Projects:
 
 Some of those projects are my own personal and the rest is popular or known amonst the CS community.
 
-### LLM's
+### LLM's:
 
 The following projects utalise LLM's or Build LLM's to implement features e.g autocomplete, create/train chatbots etc.
 
