@@ -1,14 +1,13 @@
 # Zettlekasten
 
-_Athor Starement  "This shall be the knowlage hidden revealed, the notes taken the of ultimate void of knowlage and written words of the wise. Project made to learn and teach.
-Knowledge should not be kept unknown among us, to evolve , knowledge should be free. Those who deprive knowledge will always live in fear. Because true power is in learning and that can't be stopped."_
+_Author Starement  "This shall be the hidden knowlage revealed, notes taken from the ultimate void of knowledge and written words of the wise. Project made to learn and teach. Knowledge should not be kept unknown among us, to evolve , knowledge should be free. Those who deprive knowledge will always live in fear. Because true power is in learning and that can't be stopped."_
 
 
 This README was not AI generated ! Sources where handpicked, cant say the same about the code or inside the resources themselves.
 
 **Note:** The purpose of this repository is to enable a person who knows little or nothing about computers to become a professional with no educational background of computers, software or AI needed.
 
-Pleasd Look for the topic that you want to learn about more and want to explore more about below.
+Please Look for the topic that you want to learn about more and want to explore more about below.
 
 # General Purpose Book Collection:
 - [Manga Way to Learn All Topics of CS, Physics and Calculas](https://nostarch.com/catalog/manga)
@@ -24,45 +23,25 @@ Pleasd Look for the topic that you want to learn about more and want to explore 
 The following is everthing CS related from Languages to Projects
 
    ## Languages
-   - [Assembly Language](https://github.com/MarawanYakout/Zettlekasten/tree/main/code/languages/Assembly/x86_64_linux)
-      - [Exta Nasm Examples](https://github.com/funnydman/nasm-assembly-examples/tree/master)
+   - [Languages](sources/languages.md)
      
-   
    ## Programming  Resources:
-   - The C Programming Language - Brian W. Kernighan, Dennis M. Ritchie 
-
+   - [Programming Resources](sources/programming-resources.md)
 
 ## AI/DL/ML Resources:
-
-### Code:
-- [Linear Regression in Python](https://github.com/MarawanYakout/Zettlekasten/blob/main/code/machine_learning/Linear_Regression.ipynb)
-
-### General Purpose Books:
-- Sutskever's List - Richard Heimann
-- [Geoffrey E Hinton - Puplications](https://github.com/manjunath5496/Geoffrey-E-Hinton-Publications)
-
+- [AI/DL/ML Resources](sources/ai-dl-ml-resources.md)
 
 ## AI/DL/ML Projects:
+- [AI/DL/ML Projects](sources/ai-dl-ml-projects.md)
 
-Some of those projects are my own personal and the rest is popular or known amonst the CS community.
-
-### LLM's:
-
-The following projects utalise LLM's or Build LLM's to implement features e.g autocomplete, create/train chatbots etc.
-
-- [Slim](https://github.com/MarawanYakout/Slim) - A program that allows attaching a localy deployed  LLM model to correct CLI errors.
-
-  
 ## Computer Science Projects
-
-- Doom _"If you know how to program a game like Doom from scratch you probably are good in Assembly and C++"_
-  - Original Work from 1997: https://github.com/id-Software/DOOM
-  - Doom Made in Python: https://github.com/StanislavPetrovV/DOOM-Level-Viewer
+- [Computer Science Projects](sources/computer-science-projects.md)
 
 ## Cybersecurity
--  [Learning Expoitation](https://pwnable.kr/) - A website you can hack using C and Asm knowledge.
--  [File I/O - File Descriptor](https://www.classes.cs.uchicago.edu/archive/2017/winter/51081-1/LabFAQ/lab2/fileio.html) Good information form University of Chicago.
--  [Firing Range](https://public-firing-range.appspot.com/) - Shooting XSS
+- [Cybersecurity](sources/cybersecurity.md)
+
+## cometetive programming
+- [Competitive Programming: Roadmap to the Top Tier](sources/competitive-programming.md)
 
 
 # Mathematics Books
@@ -74,55 +53,31 @@ here are the best picks to get you going in the industry big thanks to "The Math
 **[The Nature of Mathematics by Karl Smith (The Bonus Book)](https://amzn.to/3ByNCTA)**
 
 ## Foundations of Mathematics
-* [How to Prove It: A Structured Approach by Daniel J. Velleman (Logic and Proof Writing)](https://amzn.to/3VKKoDs)
-* [Elementary Number Theory by David M. Burton (Number Theory)](https://amzn.to/4ftX8Fg)
-* [Intermediate Algebra by Robert A. Blitzer (Intermediate Algebra)](https://amzn.to/3ZZX0ch)
-* [College Algebra by Robert A. Blitzer (College Algebra)](https://amzn.to/4glQiDd)
-* [Precalculus Mathematics for Calculus by James Stewart (Precalculus & Trigonometry)](https://amzn.to/4gHFqzm)
+- [Foundations of Mathematics](sources/foundations-of-mathematics.md)
 
 ## Algebra and Structures
-* [A Book of Abstract Algebra by Charles C. Pinter (Beginner)](https://amzn.to/3DjxENJ)
-* [Abstract Algebra by David S. Dummit and Richard M. Foote (Advanced)](https://amzn.to/3ByOk3c)
-* [Elementary Linear Algebra by Howard Anton (Beginner)](https://amzn.to/4gikkYz)
-* [Linear Algebra Done Right by Sheldon Axler (Advanced)](https://amzn.to/4iF9LAj)
+- [Algebra and Structures](sources/algebra-and-structures.md)
 
 ## Geometry and Topology
-* [Geometry by Harold R. Jacobs (Geometry)](https://amzn.to/4gkQKBC)
-* [Topology by James Munkres (Topology)](https://amzn.to/41Hn6lx)
-* [Algebraic Topology by Allen Hatcher (Algebraic Topology)](https://amzn.to/4iMaM9R)
-* [Differential Geometry of Curves and Surfaces by Manfredo P. do Carmo (Differential Geometry)](https://amzn.to/4gG7tix)
+- [Geometry and Topology](sources/geometry-and-topology.md)
 
 ## Discrete Mathematics and Combinatorics
-* [Discrete Mathematics with Applications by Susanna S. Epp](https://amzn.to/3VLpV0Z)
-* [Introductory Combinatorics by Richard A. Brualdi (Combinatorics)](https://amzn.to/3DhvTQU)
+- [Discrete Mathematics and Combinatorics](sources/discrete-mathematics-and-combinatorics.md)
 
 ## Analysis and Calculus
-
-* [Calculus by James Stewart (Calculus)](https://amzn.to/4iFaAsT)
-* [Advanced Calculus by Patrick M. Fitzpatrick (Advanced Calculus)](https://amzn.to/49KH2G8)
-* [Real and Complex Analysis by Walter Rudin (Real and Complex Analysis)](https://amzn.to/3ZL2oPa)
-* [Introductory Functional Analysis with Applications by Erwin Kreyszig (Functional Analysis)](https://amzn.to/3DlbavE)
-* [Complex Variables and Applications by James Ward Brown and Ruel V. Churchill (Complex Variables)](https://amzn.to/4gjHZrj)
-* [A First Course in Differential Equations by Dennis G. Zill (Differential Equations)](https://amzn.to/3DiQcO6)
-* [Partial Differential Equations: An Introduction by Walter A. Strauss (Partial Differential Equations)](https://amzn.to/3DzlqjO)
-* [Numerical Analysis by Richard L. Burden and J. Douglas Faires (Numerical Analysis)](https://amzn.to/49H5QPn)
-* [Fourier Series and Boundary Value Problems by James Ward Brown and Ruel V. Churchill (Fourier Series)](https://amzn.to/3P2J3Uw)
+- [Analysis and Calculus](sources/analysis-and-calculus.md)
 
 ## Applied Mathematics and Modeling
-* [Applied Mathematics by J. David Logan (Applied Math)](https://amzn.to/49N7zTq)
-* [Understanding Cryptography by Christof Paar and Jan Pelzl (Cryptography)](https://amzn.to/41HWcdg)
-* [Fundamentals of Physics by David Halliday, Robert Resnick, and Jearl Walker (Physics Vol. 1)](https://amzn.to/40aMmzD)
-* [Fundamentals of Physics by David Halliday, Robert Resnick, and Jearl Walker (Physics Vol. 2)](https://amzn.to/49LQ1H3)
-* [Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N.O. Sadiku (Electrical Engineering)](https://amzn.to/3P3w7xN)
+- [Applied Mathematics and Modeling](sources/applied-mathematics-and-modeling.md)
 
 ## Probability and Statistics
-* [A First Course in Probability by Sheldon Ross (For Beginners)](https://amzn.to/4iLn1mP)
-* [Statistical Inference by George Casella and Roger L. Berger (More Advanced)](https://amzn.to/4foQVdY)
+- [Probability and Statistics](sources/probability-and-statistics.md)
 
 # Videos 
 ### Centrified - Personal Youtube Channel 
 - [Full Python Course with Practice](https://www.youtube.com/watch?v=t-Es7fbNYcg&t=17s)
-- [Linear Regression in Python](https://youtu.be/eJMMLGaTv20)
+
+## Useful Material
    - [Dataset Used](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64)
    - [Linear Regression Code](https://github.com/MarawanYakout/Zettlekasten/blob/main/code/machine_learning/Linear_Regression.ipynb)
 # Game Dev
