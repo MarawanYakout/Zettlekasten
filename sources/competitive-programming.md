@@ -25,7 +25,7 @@ A practical, staged framework for going from casual solver to Candidate Master /
 ---
 ## Starting Boost
 Add this google doc to edit it and use it wisely as uncle ben said "With Great Power Comes Great Responsibility"
-[Competitive Programing 1300 hours of CodeFore beginner problems](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=84654839#gid=84654839)
+[Competitive Programing 1300 hours of CodeForce beginner problems](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=84654839#gid=84654839)
 
 ## 2. Know Your Target (Codeforces Rating Tiers)
 
